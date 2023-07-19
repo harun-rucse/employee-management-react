@@ -41,6 +41,6 @@ http://localhost:3000
 5. Routes
 
 ```
-path =/ for home page
-path =/create for Create form page
+http://localhost:3000/ for home page
+http://localhost:3000/create for Create form page
 ```
